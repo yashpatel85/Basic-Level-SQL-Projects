@@ -11,6 +11,7 @@ Order_Items: Product-wise details for each order.
 Products: Product details (Product ID, Name, Category, Price).
 
 📊 Key Objectives
+
 ✅ Identify top-spending customers.
 ✅ Analyze monthly and seasonal purchase patterns.
 ✅ Determine the best-selling products.
