@@ -13,8 +13,11 @@ Products: Product details (Product ID, Name, Category, Price).
 📊 Key Objectives
 
 ✅ Identify top-spending customers.
+
 ✅ Analyze monthly and seasonal purchase patterns.
+
 ✅ Determine the best-selling products.
+
 ✅ Find repeat customers and loyalty trends.
 
 🛠️ Technologies Used
@@ -23,6 +26,7 @@ PostgreSQL / MySQL
 SQL Queries (Joins, Aggregations, CTEs, Window Functions)
 
 📌 SQL Analysis Steps
+
 1️⃣ Data Cleaning & Exploration
 
 2️⃣ Customer Segmentation (Top Spenders, Repeat Customers)
