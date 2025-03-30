@@ -20,10 +20,13 @@ Products: Product details (Product ID, Name, Category, Price).
 
 ✅ Find repeat customers and loyalty trends.
 
+
 🛠️ Technologies Used
 PostgreSQL / MySQL
 
+
 SQL Queries (Joins, Aggregations, CTEs, Window Functions)
+
 
 📌 SQL Analysis Steps
 
@@ -35,6 +38,7 @@ SQL Queries (Joins, Aggregations, CTEs, Window Functions)
 
 4️⃣ Product Analysis (Best-Selling, Least-Selling)
 
+
 📜 Sample Queries
 
 -- Top 5 customers by total spend
@@ -45,6 +49,7 @@ GROUP BY c.customer_id, c.name
 ORDER BY total_spent DESC
 LIMIT 5;
 
+
 📈 Insights & Takeaways
 50% of sales come from repeat customers.
 
@@ -52,12 +57,14 @@ Peak sales months align with holiday seasons.
 
 Certain products experience seasonal demand spikes.
 
+
 🔗 How to Run the Project
 Load the provided dataset into your database.
 
 Execute the SQL queries to analyze trends.
 
 Modify queries for deeper insights.
+
 
 📌 Future Enhancements
 
