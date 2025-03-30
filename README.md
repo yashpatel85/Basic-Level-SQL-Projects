@@ -60,5 +60,7 @@ Execute the SQL queries to analyze trends.
 Modify queries for deeper insights.
 
 📌 Future Enhancements
+
 🚀 Automate reports with SQL views.
+
 🚀 Implement advanced customer segmentation models.
