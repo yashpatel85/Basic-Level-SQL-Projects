@@ -24,8 +24,11 @@ SQL Queries (Joins, Aggregations, CTEs, Window Functions)
 
 📌 SQL Analysis Steps
 1️⃣ Data Cleaning & Exploration
+
 2️⃣ Customer Segmentation (Top Spenders, Repeat Customers)
+
 3️⃣ Purchase Trends (Monthly, Seasonal)
+
 4️⃣ Product Analysis (Best-Selling, Least-Selling)
 
 📜 Sample Queries
